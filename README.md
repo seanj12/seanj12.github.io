@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 
 ## 📌 About Me  
-Hi! I'm a **data analyst** with a background in **Applied Mathematics & Experimental Physics** and experience in **SQL, Tableau, and data visualization**. I specialize in transforming raw data into actionable insights. My goal is to use data-driven decision-making to solve real-world business problems.
+Hi! I'm a **data analyst** with a BSc in **Applied Mathematics & Experimental Physics** and experience in **SQL, Tableau, R and python**. I specialize in transforming raw data into actionable insights. My goal is to use data-driven decision-making to solve real-world business problems.
 
 ## 📊 Featured Projects
 
