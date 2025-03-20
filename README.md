@@ -20,8 +20,8 @@ Hi! I'm a **data analyst** with a background in **Applied Mathematics & Experime
 ## 📚 Skills & Tools
 ✔ **SQL** - Data querying, joins, aggregations  
 ✔ **Tableau** - Data visualization & storytelling  
-✔ **Python (Pandas, Matplotlib)** - Data analysis & visualization
-✔ **R (ggplot2, tidyverse)** - Data analysis & visualization
+✔ **Python (Pandas, Matplotlib)** - Data analysis & visualization  
+✔ **R (ggplot2, tidyverse)** - Data analysis & visualization  
 ✔ **Excel** - Pivot tables, data cleaning  
 ✔ **Google Data Analytics Certificate**  
 
