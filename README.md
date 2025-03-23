@@ -19,7 +19,7 @@ Hi! I'm a **data analyst** with a BSc in **Applied Mathematics & Experimental Ph
 **📌 Final Year Undergrad Physics Project:** Aim: To complete an absolute calibration of the solar tracking device
 – the “Solar hedgehog”. 
 **🛠 Tools Used:** Python, Excel, CAD
-🔗 [Project Thesis](file:///C:/Users/seanj/OneDrive/NUIM/EP%20PROJECT/EP405_Thesis_20442404.pdf) |🔗 [Python Scripts] (#)
+🔗 [Project Thesis](/EP405_Thesis_20442404.pdf) |🔗 [Python Scripts] (#)
 
 **Reuslts**
 - A tracking device holder was successfully designed and printed to aid in this full calibration.
