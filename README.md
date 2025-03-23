@@ -8,7 +8,7 @@ Hi! I'm a **data analyst** with a BSc in **Applied Mathematics & Experimental Ph
 ### 1️⃣ **Cycle Share Membership Analysis**  🚴
 **📌 Business Task:** Convert casual riders into paying members.  
 **🛠 Tools Used:** SQL, Tableau, Google Sheets  
-🔗 [Tableau Dashboard 1](https://public.tableau.com/app/profile/sean.jordan7170/viz/CyclisticDashboard2020Q1/Dashboard1) |🔗 [Tableau Dashboard 2](https://public.tableau.com/app/profile/sean.jordan7170/viz/CyclisticDashboard2019Q1/Dashboard1) | 🔗 [GitHub SQL Queries](sql/your-query.sql) | 🔗 [Case Study Report](https://docs.google.com/document/d/1BGiJKdCIfaXIgSzDd-fMw_lGg7AatwcKAeQjw4mZegA/edit?usp=sharing)
+🔗 [Tableau Dashboard 1](https://public.tableau.com/app/profile/sean.jordan7170/viz/CyclisticDashboard2020Q1/Dashboard1) |🔗 [Tableau Dashboard 2](https://public.tableau.com/app/profile/sean.jordan7170/viz/CyclisticDashboard2019Q1/Dashboard1) | 🔗 [GitHub SQL Queries](sql/CycleQueries.sql) | 🔗 [Case Study Report](https://docs.google.com/document/d/1BGiJKdCIfaXIgSzDd-fMw_lGg7AatwcKAeQjw4mZegA/edit?usp=sharing)
 
 **Key Insights:**  
 - Casual riders have longer trips, making them ideal membership candidates.  
