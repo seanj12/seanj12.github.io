@@ -26,7 +26,7 @@ Hi! I'm a **data analyst** with a BSc in **Applied Mathematics & Experimental Ph
 - Results were gathered on the testing of components of the tracking device and computational programs were created to compile a large amount of data in a
 laboratory field test that tested the accuracies of the individual LEDs on the device.
 
-### 1️⃣ **CRM Sales Dashboard**  
+### 3️⃣ **CRM Sales Dashboard**  
 **📌 Business Task:** Create an informative dashboard that highlights quarterly performance.  
 **🛠 Tools Used:** Excel, Pivot Tables
 🔗 [Excel Dashboard](https://1drv.ms/x/c/6e3f3c26c00da5f2/EdUFE15OpM9Gn-ub5OF_ANYBEhlIVocxcoTsXQSi4711Mg?e=GSu6MV) |🔗 [Project Log](https://public.tableau.com/app/profile/sean.jordan7170/viz/CyclisticDashboard2019Q1/Dashboard1) 
