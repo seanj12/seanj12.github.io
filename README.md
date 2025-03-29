@@ -28,7 +28,7 @@ laboratory field test that tested the accuracies of the individual LEDs on the d
 
 ### 3️⃣ **CRM Sales Dashboard**  
 **📌 Business Task:** Create an informative dashboard that highlights quarterly performance.  
-**🛠 Tools Used:** Excel, Pivot Tables 
+**🛠 Tools Used:** Excel, Pivot Tables  
 🔗 [Excel Dashboard](/CRMDashboard/excel/crm_dashboard.xlsx) |🔗 [Project Log](/CRMDashboard/excel/projectlog) 
 
 **Brief Description:**  
