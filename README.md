@@ -29,7 +29,7 @@ laboratory field test that tested the accuracies of the individual LEDs on the d
 ### 3️⃣ **CRM Sales Dashboard**  
 **📌 Business Task:** Create an informative dashboard that highlights quarterly performance.  
 **🛠 Tools Used:** Excel, Pivot Tables 
-🔗 [Excel Dashboard](/CRMDashboard/excel/crm_dashboard.xlsx) |🔗 [Project Log](https://public.tableau.com/app/profile/sean.jordan7170/viz/CyclisticDashboard2019Q1/Dashboard1) 
+🔗 [Excel Dashboard](/CRMDashboard/excel/crm_dashboard.xlsx) |🔗 [Project Log](/CRMDashboard/excel/projectlog) 
 
 **Brief Description:**  
 A CRM sales dashborad was created for a fictitious company that sells hardware. Pivot tables were created to track and analyse closed deals, lost deals and sales agent performance per quarter. The pivot tables were used to create a dynamic an informative dashboard to display these statisitcs visually. 
