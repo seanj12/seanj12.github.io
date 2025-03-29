@@ -1,1 +1,13 @@
+Project Log for CRM Dashboard project.
 
+-Opened sales pipeline and sales teams csv files
+-Brought in the "manager" and "regional_office" for each "sales_agent" in the sales pipeline table using XLOOKUP
+-Inserted a pivot table on a new tab to show opportunities won by quarter
+-Added another pivot table to break down the percentage of won & lost opportunities by quarter
+-Created a final pivot table that shows the opportunities won by quarter for each sales agent, and sort the sales agents in descending order by opportunities won
+-Restructured the first two pivot tables so they have the quarters as pivot table columns, and sort them so the most recent quarter always comes first
+-Inserted a column chart visual to show the opportunities won for each quarter
+-Visualised the percentage of deals won and lost in the most recent quarter using a pie chart
+-Used a bar chart to visualise the opportunities won by sales agent per quarter
+-Added slicers for the "Quarter", "regional_office", "manager" fields
+-Finished things off by arranging the visuals into a dashboard and adding a title
