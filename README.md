@@ -41,6 +41,7 @@ A CRM sales dashborad was created for a fictitious company that sells hardware. 
 ✔ **Tableau** - Data visualization & storytelling  
 ✔ **Python (Pandas, Matplotlib)** - Data analysis & visualization  
 ✔ **R (ggplot2, tidyverse)** - Data analysis & visualization  
+✔ **Power BI** - Data analysis & visualization  
 ✔ **Excel/Sheets** - Pivot tables, data cleaning  
 ✔ **Google Data Analytics Certificate**  
 
