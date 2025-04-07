@@ -37,7 +37,7 @@ A CRM sales dashborad was created for a fictitious company that sells hardware. 
 ### 4️⃣ **Toy Store KPI Dashboard – Power BI Project** 🧸  
 **📌 Business Task:** To track key business metrics and help stakeholders monitor performance across product categories, identify sales trends, and pinpoint top-selling products.  
 **🛠 Tools Used:** Power BI, DAX, Power Query  
-🔗 [Excel Dashboard](/CRMDashboard/excel/crm_dashboard.xlsx) |🔗 [Project Log](/CRMDashboard/excel/projectlog) 
+🔗 [BI Dashboard PDF](/toystorekpi/toy_store_kpi.pdf) |🔗 [Project Log](/toystorekpi/projectlog) 
 
 **Key Features:**
 - Interactive dashboard displaying KPIs like total sales, revenue, and profit.
