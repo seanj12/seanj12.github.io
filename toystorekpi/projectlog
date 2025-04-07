@@ -1,0 +1,39 @@
+Toy Store KPI Dashboard – Project Log
+Tools used: Power BI, Power Query, DAX, Excel (CSV files)
+
+🔹 Data Preparation
+Connected to four source files: sales, products, stores, and calendar CSVs.
+
+Reviewed data structure, cleaned null/blank values, validated data types, and identified primary & foreign keys.
+
+Profiled the data to extract key insights, including transaction volume, number of stores, and product pricing range.
+
+Added calculated columns to the calendar table for Start of Month and Start of Week to enable time-based analysis.
+
+🔹 Data Modeling
+Loaded the tables into the Power BI data model and built a star schema with proper 1:many relationships between the sales fact table and related dimension tables (products, stores, calendar).
+
+Created a date hierarchy (Date > Start of Week > Start of Month) to support drill-down analysis.
+
+Hid all foreign key columns in the report view to simplify the user interface.
+
+🔹 Calculated Fields & Measures
+Created calculated columns to retrieve cost and price for each sale and used them to compute revenue and profit per transaction.
+
+Defined key measures including Total Orders, Total Revenue, and Total Profit.
+
+Bonus: Created alternate revenue/profit measures using DAX instead of calculated columns.
+
+🔹 Report & Dashboard Design
+Built an interactive report with:
+
+KPI cards displaying monthly totals for orders, revenue, and profit.
+
+Bar chart showing orders by product category.
+
+Line chart tracking revenue trends over time using the custom date hierarchy.
+
+Slicer for filtering by store location.
+
+Organized visuals into a clear layout, refined formatting, and added interactive features for improved user experience.
+
