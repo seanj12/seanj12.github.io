@@ -1,4 +1,7 @@
 Toy Store KPI Dashboard – Project Log
+
+## Brief Description 
+Built an interactive sales performance dashboard for a fictional toy company using Power BI. This project involved cleaning and modeling raw CSV data, creating calculated measures using DAX, and visualizing KPIs with dynamic visuals like bar and line charts. The final dashboard enables users to track orders, revenue, and profit by category and time, offering actionable insights for business decision-making.
 Tools used: Power BI, Power Query, DAX, Excel (CSV files)
 
 🔹 Data Preparation
