@@ -45,6 +45,9 @@ A CRM sales dashborad was created for a fictitious company that sells hardware. 
 - Dynamic slicers for filtering by category, month, and product.
 - Conditional formatting and bar charts for quick comparison of performance.
 
+**🎯 Outcome:**
+This dashboard provides a clear and interactive view of store performance, making it easier for decision-makers to identify what’s working and where improvements are needed.
+
 ---
 
 ## 📚 Skills & Tools
