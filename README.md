@@ -35,8 +35,8 @@ laboratory field test that tested the accuracies of the individual LEDs on the d
 A CRM sales dashborad was created for a fictitious company that sells hardware. Pivot tables were created to track and analyse closed deals, lost deals and sales agent performance per quarter. The pivot tables were used to create a dynamic an informative dashboard to display these statisitcs visually. 
 
 ### 4️⃣ **Toy Store KPI Dashboard – Power BI Project** 🧸  
-**📌 Business Task:** To track key business metrics and help stakeholders monitor performance across product categories, identify sales trends, and pinpoint top-selling products.
-**🛠 Tools Used:** Power BI, DAX, Power Query
+**📌 Business Task:** To track key business metrics and help stakeholders monitor performance across product categories, identify sales trends, and pinpoint top-selling products.  
+**🛠 Tools Used:** Power BI, DAX, Power Query  
 🔗 [Excel Dashboard](/CRMDashboard/excel/crm_dashboard.xlsx) |🔗 [Project Log](/CRMDashboard/excel/projectlog) 
 
 **Key Features:**
